@@ -3,7 +3,7 @@ A project for GitHub Test.
 this is inline code `code`
 
 and this is code
-```ruby linenos
+```ruby
 def print_hi(name)
   puts "Hi, #{name}"
 end
