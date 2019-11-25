@@ -9,9 +9,9 @@
     },
     "longitude": {
       "type": "number"
-    },
-    "required": [
-        "latitude"
-    ]
-  }
+    }
+  },
+  "required": [
+      "latitude"
+  ]
 }
